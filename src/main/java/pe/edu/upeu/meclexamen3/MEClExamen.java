@@ -152,6 +152,12 @@ public class MEClExamen {
             dimen=leer.nextInt();
             System.out.println("INGRESE EL NUMERO DE INICIO: ");
             n=leer.nextInt();
+            
+            
+            
+            
+            
+            
         }
     }
     }
