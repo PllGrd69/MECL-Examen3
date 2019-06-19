@@ -125,6 +125,11 @@ public class MEClExamen {
         or.imprimir(or.MECLTrans5(dimen, n));
     }
     public static void main(String[] args) {
+        
+        
+        
+        
+        
         MEClExamen or=new MEClExamen();
         System.out.println("INGRESE LA OPCIÓN DEL ALGORITMO QUE DESEA PROBAR");
         Scanner leer=new Scanner(System.in);
